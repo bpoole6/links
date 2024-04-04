@@ -61,7 +61,7 @@ links:
     # YOUTUBE
   - Name: YouTube
     URL: https://www.youtube.com/channel
-    Username: @austin-poole
+    Username: "@austin-poole"
     Color: '#ff0000'
     Icon-Class: fab fa-youtube
 
