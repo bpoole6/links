@@ -25,7 +25,7 @@ links:
   # YOUTUBE
   - Name: YouTube
     URL: https://www.youtube.com/channel
-    Username: "@austin-poole"
+    Username: "UCRMu2DVzsr0SebCpQZZ19ag"
     Color: '#ff0000'
     Icon-Class: fab fa-youtube
 
@@ -46,7 +46,7 @@ links:
     Icon-Class: fab fa-instagram
 
     # TWITTER
-  - Name: X(twitter)
+  - Name: X.com
     URL: https://x.com
     Username: ThatPoole
     Color: '#1DA1F2'
