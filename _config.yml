@@ -5,7 +5,7 @@ name: Austin Poole
 tagline: Austin Poole here! I'm a senior developer who likes to play so much in the cloud I went and got AWS Certified.
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://github.com/harsh98trivedi.png
+Image_URL: https://apoole-personal-bucket.s3.amazonaws.com/images_used_by_links/Poole-42sm.jpg
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: https://picsum.photos/1080?nocache=
@@ -18,9 +18,9 @@ links:
     # FACEBOOK
   - Name: Facebook
     URL: https://www.facebook.com
-    Username: harsh98trivedi
+    Username: bryan.poole.969
     Color: '#3b5998'
-    Icon-Class: fab fa-facebookas
+    Icon-Class: fab fa-facebook
 
     # INSTAGRAM
   - Name: Instagram
@@ -30,7 +30,7 @@ links:
     Icon-Class: fab fa-instagram
 
     # TWITTER
-  - Name: Twitter
+  - Name: X.com (formly Twitter)
     URL: https://x.com
     Username: ThatPoole
     Color: '#1DA1F2'
