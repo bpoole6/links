@@ -28,7 +28,7 @@ links:
     Username: "@austin-poole"
     Color: '#ff0000'
     Icon-Class: fab fa-youtube
-    
+
     # GITHUB
   - Name: GitHub
     URL: http://github.com
@@ -44,20 +44,23 @@ links:
     Username: bpoole6
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
-    # FACEBOOK
-  - Name: Facebook
-    URL: https://www.facebook.com
-    Username: bryan.poole.969
-    Color: '#3b5998'
-    Icon-Class: fab fa-facebook
-
 
     # TWITTER
-  - Name: X.com (formly Twitter)
+  - Name: X(twitter)
     URL: https://x.com
     Username: ThatPoole
     Color: '#1DA1F2'
     Icon-Class: fa-brands fa-x-twitter
+
+    # FACEBOOK
+#  - Name: Facebook
+#    URL: https://www.facebook.com
+#    Username: bryan.poole.969
+#    Color: '#3b5998'
+#    Icon-Class: fab fa-facebook
+
+
+
 
      # THREADS.NET
 #  - Name: Threads
