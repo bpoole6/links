@@ -14,13 +14,29 @@ Cover_Image: https://picsum.photos/1080?nocache=
 links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
+
+  # LINKEDIN
+  - Name: LinkedIn
+    URL: https://www.linkedin.com/in
+    Username: the-austin-poole
+    Color: '#2867B2'
+    Icon-Class: fab fa-linkedin-in
+
+  # YOUTUBE
+  - Name: YouTube
+    URL: https://www.youtube.com/channel
+    Username: "@austin-poole"
+    Color: '#ff0000'
+    Icon-Class: fab fa-youtube
     
-    # FACEBOOK
-  - Name: Facebook
-    URL: https://www.facebook.com
-    Username: bryan.poole.969
-    Color: '#3b5998'
-    Icon-Class: fab fa-facebook
+    # GITHUB
+  - Name: GitHub
+    URL: http://github.com
+    Username: bpoole6
+    Color: '#6e5494'
+    Icon-Class: fab fa-github
+
+
 
     # INSTAGRAM
   - Name: Instagram
@@ -28,6 +44,13 @@ links:
     Username: bpoole6
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
+    # FACEBOOK
+  - Name: Facebook
+    URL: https://www.facebook.com
+    Username: bryan.poole.969
+    Color: '#3b5998'
+    Icon-Class: fab fa-facebook
+
 
     # TWITTER
   - Name: X.com (formly Twitter)
@@ -51,26 +74,7 @@ links:
 #    Color: '#f1c40f'
 #    Icon-Class: fas fa-hand-paper -mt-0.5
     
-    # LINKEDIN
-  - Name: LinkedIn
-    URL: https://www.linkedin.com/in
-    Username: the-austin-poole
-    Color: '#2867B2'
-    Icon-Class: fab fa-linkedin-in
 
-    # YOUTUBE
-  - Name: YouTube
-    URL: https://www.youtube.com/channel
-    Username: "@austin-poole"
-    Color: '#ff0000'
-    Icon-Class: fab fa-youtube
-
-    # GITHUB
-  - Name: GitHub
-    URL: http://github.com
-    Username: bpoole6
-    Color: '#6e5494'
-    Icon-Class: fab fa-github
 
     # WordPress
 #  - Name: WordPress.org
